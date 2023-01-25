@@ -1,6 +1,6 @@
 <h2 align="center"><u>Thanos-Crasher</u></h2>
 
-![Crash Computers with 2 Clicks and Pressing Enter 1 time](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lagacetasalta.com.ar%2Fnota%2F137442%2Fespectaculos%2Fthanos-mayor-villano-cine-mundial.html&psig=AOvVaw3Wv0I6d-QUcPoaQ7OnxMlL&ust=1674746735480000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJiy8vOD4_wCFQAAAAAdAAAAABAR)
+![Crash Computers with 2 Clicks and Pressing Enter 1 time](https://img.lagacetasalta.com.ar/fotos/notas/2020/05/26/845398_202005251915490000001.jpg)
 <h4 align="center"> Crash Computers with 2 Clicks and Pressing Enter 1 time </h4>
 
 <p align="center">
