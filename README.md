@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/github/contributors/DARKNOSY/Thanos-Crasher?style=for-the-badge&color=cyan">
 <br>
     <img src="https://img.shields.io/badge/Author-DARKNOSY-magenta?style=flat-square">
-    <img src="https://img.shields.io/badge/Open%20Source-No-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Made%20In-France-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Written%20In-Batch and Python-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-Batch-blue?style=flat-square">
 <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=Thanos-Crasher&theme=synthwave">
 </p>
@@ -22,12 +22,22 @@
 ### [+] Description
 Thanos Crash is a repository where it's goal is to crash the computer it's launched in the fastest way
 
+### [+] Installation
+`https://github.com/DARKNOSY/Thanos-Crasher/files/10529941/Thanos-Crasher.zip`
+
+### [+] Usage
+ - `Launch Crasher.bat on the computer you want to crash (keep menu.py and Thanos.bat in the same folder)`
+ - `Restart pc to make the pc `
+
+### [+] Features
+If it's a bad pc, the pc will be completly unusable (till it's restarted)
+
 ### [+] Requirements
- - Python 3.11
- - A Computer
+A computer
 
 ### [+] Credits 
 <a href="https://github.com/DARKNOSY/Thanos-Crasher">DARKNOSY</a>
 
 ### [+] Disclaimer 
 I am not responsible for any use of this software, this software is for educational purposes only.
+
