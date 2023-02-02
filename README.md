@@ -23,17 +23,17 @@
 Thanos Crash is a repository where it's goal is to crash the computer it's launched in the fastest way
 
 ### [+] Installation
-`https://github.com/DARKNOSY/Thanos-Crasher/files/10529941/Thanos-Crasher.zip`
+`https://github.com/DARKNOSY/Thanos-Crasher/releases/download/V0.5/Thanos-Crasher.zip`
 
 ### [+] Usage
  - `Launch Crasher.bat on the computer you want to crash (keep menu.py and Thanos.bat in the same folder)`
- - `Restart pc to make the pc `
+ - `Restart pc to make the pc usable again`
 
 ### [+] Features
 If it's a bad pc, the pc will be completly unusable (till it's restarted)
 
 ### [+] Requirements
-A computer
+A Computer
 
 ### [+] Credits 
 <a href="https://github.com/DARKNOSY/Thanos-Crasher">DARKNOSY</a>
