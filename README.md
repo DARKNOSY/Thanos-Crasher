@@ -20,7 +20,7 @@
 </p>
 
 ### [+] Description
-Thanos Crash is a repository where it's goal is to crash the computer it's launched in the fastest way
+Thanos Crash is a repository where it's goal is to crash the computer it's launched in the fastest way.
 
 ### [+] Installation
 `https://github.com/DARKNOSY/Thanos-Crasher/releases/download/V0.5/Thanos-Crasher.zip`
@@ -33,11 +33,11 @@ Thanos Crash is a repository where it's goal is to crash the computer it's launc
 If it's a bad pc, the pc will be completly unusable (till it's restarted)
 
 ### [+] Requirements
-A Computer
+A computer
 
 ### [+] Credits 
 <a href="https://github.com/DARKNOSY/Thanos-Crasher">DARKNOSY</a>
 
-### [+] Disclaimer 
-I am not responsible for any use of this software, this software is for educational purposes only.
+### [+] Find me on 
+<a href="mailto:dark.help87@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-dark.help87@yahoo.com-blue?style=for-the-badge&logo=gmail"></a>
 
